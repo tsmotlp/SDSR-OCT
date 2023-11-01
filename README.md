@@ -8,4 +8,4 @@
 </br>
 If you use this code, please cite our work: Yongqiang Huang, Zexin Lu, Zhimin Shao, Maosong Ran, Jiliu Zhou, Leyuan Fang, and Yi Zhang, "Simultaneous denoising and super-resolution of optical coherence tomography images based on generative adversarial network," Opt. Express 27, 12289-12307 (2019)</br>
 </br>
-Any questions about this code, please contact the author: hyq_tsmotlp@163.com</br>
+Any questions about this code, please contact the author: yqhuang2912@gmail.com</br>
